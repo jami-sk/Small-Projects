@@ -1,4 +1,4 @@
--[ ] [Instagram Reach Analysis and Prediction](https://thecleverprogrammer.com/2022/03/22/instagram-reach-analysis-using-python/)  
+-[] [Instagram Reach Analysis and Prediction](https://thecleverprogrammer.com/2022/03/22/instagram-reach-analysis-using-python/)  
 -[ ] [Online Payments Fraud Detection](https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/)  
 -[ ] [Waiter Tips Analysis & Prediction](https://thecleverprogrammer.com/2022/02/01/waiter-tips-prediction-with-machine-learning/)  
 -[ ] [Ukraine vs Russia Twitter Sentiment Analysis](https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-analysis-using-python/)  
@@ -96,7 +96,7 @@
 -[ ] [Sales Prediction](https://thecleverprogrammer.com/2021/05/19/sales-prediction-with-machine-learning/)  
 -[ ] [Currency Exchange Rate Prediction](https://thecleverprogrammer.com/2021/05/22/currency-exchange-rate-prediction-with-machine-learning/)  
 -[ ] [Automatic Time Series Forecasting](https://thecleverprogrammer.com/2021/04/19/autots-in-python-tutorial/)  
--[ ] [Ted-Talks Recommendation System](https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/)
+-[ ] [Ted-Talks Recommendation System](https://thecleverprogrammer.com/2021/04/01/ted-talks-recommendation-system-with-machine-learning/)  
 -[ ] [Real-time Sentiment Analysis](https://thecleverprogrammer.com/2021/03/09/real-time-sentiment-analysis-using-python/)
 
 
