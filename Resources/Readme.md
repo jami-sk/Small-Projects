@@ -223,7 +223,7 @@
 - [ ] [Data Science Project on Text and Annotations](https://thecleverprogrammer.com/2020/05/09/data-science-project-on-text-and-annotations/)  
 - [ ] [Data Science Project on — Handwritten Digits](https://thecleverprogrammer.com/2020/05/09/data-science-project-on-handwritten-digits/)  
 - [ ] [Data Science Project on- Support Vector Machines](https://thecleverprogrammer.com/2020/07/06/support-vector-machines-svm-in-machine-learning/)  
-- [ ] [Data Science Project — Stock Price Prediction with Machine Learning](https://thecleverprogrammer.com/2020/05/11/- [ ] data-science-project-stock-price-prediction-with-machine-learning/)  
+- [ ] [Data Science Project — Stock Price Prediction with Machine Learning](https://thecleverprogrammer.com/2020/05/11/data-science-project-stock-price-prediction-with-machine-learning/)  
 - [ ] [Data Science Project on — Classification of Text](https://thecleverprogrammer.com/2020/05/14/data-science-project-on-classification-of-text/)  
 - [ ] [Data Science Project on-Extracting HOG Features](https://thecleverprogrammer.com/2020/05/15/data-science-project-on-extracting-hog-features/)  
 - [ ] [Data Science Project on — Amazon Products Reviews Sentiment Analysis with Machine Learning](https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/)  
